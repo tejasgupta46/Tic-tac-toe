@@ -41,4 +41,32 @@ width:  15vh;
 font-size: 1.2rem;
 border-radius: 5px;
     background-color: rgb(138, 93, 223);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#newgmebutton{
+        height: 5vh;
+width:  15vh;
+font-size: 1.2rem;
+border-radius: 5px;
+font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(7, 164, 255);
+}
+
+.winner{
+    display: flex;
+    justify-content: center;
+    /* padding: 0px 15px ; */
+    height: 8vh;
+    /* width: 15vw; */
+    /* border: 1px solid rgb(255, 255, 255); */
+}
+#winneris{
+    font-size: 3rem;
+  color: rgb(233, 233, 233);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*  */
+.hide{
+display: none;
 }
